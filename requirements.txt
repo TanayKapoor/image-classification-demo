@@ -1,0 +1,9 @@
+torch
+torchvision
+tensorflow
+opencv-python
+scikit-learn
+pyyaml
+tqdm
+colorama
+pytest
